@@ -1,0 +1,1 @@
+# checkpoint-02-casos-de-uso-de-ml-energia-eolica-e-energia-solar
